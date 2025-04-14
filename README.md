@@ -3,8 +3,8 @@
 
 [![Visitors](https://komarev.com/ghpvc/?username=mahmoud1512&style=flat-square&color=blue)](https://github.com/mahmoud1512)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?logo=linkedin)](https://www.linkedin.com/in/mahmoud-abdelghany-a202b2305/)
-[![Email](https://img.shields.io/badge/Email-Contact-%23EA4335?logo=gmail)](mailto:mahmouddarwish1512@gmail.com)
-
+[![Email](https://img.shields.io/badge/Email-Contact-%23EA4335?logo=gmail)](mailto:mahmouddarwish1512@gmail.com)   
+[![Resume](https://img.shields.io/badge/-RESUME-2C8EBB?style=for-the-badge&logo=documents&logoColor=white&labelColor=2C8EBB)](https://drive.google.com/file/d/1gXEXVgjDy8ChBLy1hJFYiRJBRRKWTttO/view?usp=sharing)
 ## 🛠️ Technical Stack
 ### **Languages** 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
@@ -70,7 +70,7 @@
 
 ## 📚 Education & Credentials
 **🎓 B.Sc. Computer & Systems Engineering**  
-Alexandria University | GPA: 3.86/4.0  
+Alexandria University   
 📖 Relevant Coursework: AI, Pattern Recognition, Data Structures, Algorithms, Software Engineering  
 
 **🏆 Certifications**  
