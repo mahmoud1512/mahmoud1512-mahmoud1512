@@ -52,18 +52,18 @@
 
 ### **3. Huffman Compression Engine** | Java
 🗜️ 50% Compression Ratio | 🔄 Lossless Decompression  
-⚡ DataInputStream Optimization | 📦 Byte-Level Encoding
+⚡ DataInputStream Optimization | 📦 Byte-Level Encoding   
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?logo=github)](https://github.com/mahmoud1512/Huffman)
 
 
 ### **4. GOPark System** | Spring Boot, React, Jasper Reports
 🅿️ Real-Time Parking Analytics | 🚀 100% Uptime @1k Users  
-📈 JMeter Load Testing | 📄 Automated PDF Reports
+📈 JMeter Load Testing | 📄 Automated PDF Reports   
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?logo=github)](https://github.com/mahmoud1512/GOpark)
 
 ### **5. Producer-Consumer Simulation** | Java, WebSockets, Vue.js
 🏭 Factory Line Modeling | ⚙️ Concurrency Management  
-🌐 WebSocket Real-Time Updates | 🛑 Deadlock Prevention
+🌐 WebSocket Real-Time Updates | 🛑 Deadlock Prevention   
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?logo=github)](https://github.com/mahmoud1512/Producer-Consumer-Simulation)
 
 ---
